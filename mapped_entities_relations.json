@@ -6,7 +6,11 @@
         "mapped_entities_relations": {
             "entities_relations": [
                 {
-                    "dbpedia_id": "publisher",
+                    "dbpedia_id": "http://dbpedia.org/ontology/",
+                    "wikidata_ids": []
+                },
+                {
+                    "dbpedia_id": "http://dbpedia.org/resource/",
                     "wikidata_ids": []
                 }
             ]
@@ -19,7 +23,11 @@
         "mapped_entities_relations": {
             "entities_relations": [
                 {
-                    "dbpedia_id": "developer",
+                    "dbpedia_id": "http://dbpedia.org/ontology/",
+                    "wikidata_ids": []
+                },
+                {
+                    "dbpedia_id": "http://dbpedia.org/resource/",
                     "wikidata_ids": []
                 }
             ]
@@ -32,8 +40,18 @@
         "mapped_entities_relations": {
             "entities_relations": [
                 {
-                    "dbpedia_id": "Heraklion",
+                    "dbpedia_id": "http://dbpedia.org/class/yago/",
                     "wikidata_ids": []
+                },
+                {
+                    "dbpedia_id": "http://dbpedia.org/ontology/",
+                    "wikidata_ids": []
+                },
+                {
+                    "dbpedia_id": "http://dbpedia.org/resource/Heraklion",
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q160544"
+                    ]
                 }
             ]
         }
@@ -45,7 +63,11 @@
         "mapped_entities_relations": {
             "entities_relations": [
                 {
-                    "dbpedia_id": "deathPlace",
+                    "dbpedia_id": "http://dbpedia.org/ontology/",
+                    "wikidata_ids": []
+                },
+                {
+                    "dbpedia_id": "http://dbpedia.org/resource/",
                     "wikidata_ids": []
                 }
             ]
@@ -58,7 +80,11 @@
         "mapped_entities_relations": {
             "entities_relations": [
                 {
-                    "dbpedia_id": "targetAirport",
+                    "dbpedia_id": "http://dbpedia.org/ontology/",
+                    "wikidata_ids": []
+                },
+                {
+                    "dbpedia_id": "http://dbpedia.org/resource/",
                     "wikidata_ids": []
                 }
             ]
@@ -71,15 +97,15 @@
         "mapped_entities_relations": {
             "entities_relations": [
                 {
-                    "dbpedia_id": "director",
+                    "dbpedia_id": "http://dbpedia.org/ontology/",
                     "wikidata_ids": []
                 },
                 {
-                    "dbpedia_id": "starring",
+                    "dbpedia_id": "http://dbpedia.org/resource/",
                     "wikidata_ids": []
                 },
                 {
-                    "dbpedia_id": "starring",
+                    "dbpedia_id": "http://dbpedia.org/property/",
                     "wikidata_ids": []
                 }
             ]
@@ -92,7 +118,11 @@
         "mapped_entities_relations": {
             "entities_relations": [
                 {
-                    "dbpedia_id": "officialLanguage",
+                    "dbpedia_id": "http://dbpedia.org/ontology/",
+                    "wikidata_ids": []
+                },
+                {
+                    "dbpedia_id": "http://dbpedia.org/resource/",
                     "wikidata_ids": []
                 }
             ]
@@ -105,11 +135,11 @@
         "mapped_entities_relations": {
             "entities_relations": [
                 {
-                    "dbpedia_id": "Film",
+                    "dbpedia_id": "http://dbpedia.org/ontology/",
                     "wikidata_ids": []
                 },
                 {
-                    "dbpedia_id": "country",
+                    "dbpedia_id": "http://dbpedia.org/resource/",
                     "wikidata_ids": []
                 }
             ]
@@ -122,15 +152,11 @@
         "mapped_entities_relations": {
             "entities_relations": [
                 {
-                    "dbpedia_id": "Film",
+                    "dbpedia_id": "http://dbpedia.org/ontology/",
                     "wikidata_ids": []
                 },
                 {
-                    "dbpedia_id": "starring",
-                    "wikidata_ids": []
-                },
-                {
-                    "dbpedia_id": "director",
+                    "dbpedia_id": "http://dbpedia.org/resource/",
                     "wikidata_ids": []
                 }
             ]
@@ -143,15 +169,11 @@
         "mapped_entities_relations": {
             "entities_relations": [
                 {
-                    "dbpedia_id": "Organisation",
+                    "dbpedia_id": "http://dbpedia.org/ontology/",
                     "wikidata_ids": []
                 },
                 {
-                    "dbpedia_id": "formationYear",
-                    "wikidata_ids": []
-                },
-                {
-                    "dbpedia_id": "foundingYear",
+                    "dbpedia_id": "http://dbpedia.org/property/",
                     "wikidata_ids": []
                 }
             ]
