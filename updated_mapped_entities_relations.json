@@ -7,11 +7,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/2000/01/rdf-schema#",
@@ -38,11 +42,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/2000/01/rdf-schema#",
@@ -71,7 +79,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/class/yago/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/statement/value/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/2000/01/rdf-schema#",
@@ -83,7 +93,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "rdf:type",
@@ -119,11 +131,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/2000/01/rdf-schema#",
@@ -152,11 +168,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Air_China",
@@ -179,15 +199,21 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/director",
@@ -234,11 +260,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Philippines",
@@ -248,7 +278,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/officialLanguage",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q6256"
+                    ]
                 }
             ]
         }
@@ -261,11 +293,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -305,11 +341,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -360,11 +400,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -407,11 +451,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Captain_America",
@@ -436,15 +484,21 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/mission",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Apollo_14",
@@ -463,11 +517,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/2000/01/rdf-schema#",
@@ -496,7 +554,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/class/yago/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/statement/value/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/2000/01/rdf-schema#",
@@ -504,7 +564,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -525,11 +587,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/launchPad",
@@ -552,11 +618,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/occupation",
@@ -595,15 +665,21 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/class/yago/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/statement/value/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -654,7 +730,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/location",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/London",
@@ -732,7 +810,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/beginningDate",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 }
             ]
         }
@@ -751,7 +831,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/borderingstates",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P47"
+                    ]
                 }
             ]
         }
@@ -900,7 +982,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/type",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Nonprofit_organization",
@@ -910,7 +994,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/location",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Switzerland",
@@ -920,7 +1006,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/location",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/country",
@@ -972,7 +1060,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/ballpark",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P115"
+                    ]
                 }
             ]
         }
@@ -1040,7 +1130,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/producer",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q37876"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Hal_Roach",
@@ -1133,7 +1225,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/location",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Munich",
@@ -1233,7 +1327,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/mission",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Apollo_14",
@@ -1349,7 +1445,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/highest",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P610"
+                    ]
                 }
             ]
         }
@@ -1369,7 +1467,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/governor",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 }
             ]
         }
@@ -1440,7 +1540,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/type",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Nonprofit_organization",
@@ -1462,7 +1564,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/location",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/country",
@@ -1495,7 +1599,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/successor",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/P39"
+                    ]
                 }
             ]
         }
@@ -1508,7 +1614,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/property/title",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/President_of_Pakistan",
@@ -1518,7 +1626,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/years",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/"
+                    ]
                 }
             ]
         }
@@ -1558,7 +1668,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/location",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Paris",
@@ -1605,7 +1717,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/office",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q4970706"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/office",
@@ -1711,7 +1825,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/producer",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q37876"
+                    ]
                 }
             ]
         }
@@ -1781,7 +1897,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/admittancedate",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 }
             ]
         }
@@ -1794,7 +1912,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/property/programme",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Soyuz_programme",
@@ -1846,7 +1966,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/founded",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 }
             ]
         }
@@ -2075,7 +2197,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/currencyCode",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q4916"
+                    ]
                 }
             ]
         }
@@ -2088,7 +2212,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/class/yago/WikicatEatingDisorders",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 }
             ]
         }
@@ -2107,7 +2233,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/fifaMin",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/qualifier/"
+                    ]
                 }
             ]
         }
@@ -2153,7 +2281,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/timezone",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/class/yago/WikicatStatesOfTheUnitedStates",
@@ -2161,7 +2291,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/timezone",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Utah",
@@ -2190,7 +2322,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/officialLanguages",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q6256"
+                    ]
                 }
             ]
         }
@@ -2209,7 +2343,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/portrayer",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/qualifier/"
+                    ]
                 }
             ]
         }
@@ -2228,7 +2364,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/established",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 }
             ]
         }
@@ -2247,7 +2385,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/influencedBy",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Perl",
@@ -2263,7 +2403,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/influenced",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 }
             ]
         }
@@ -2282,7 +2424,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/alliance",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/SkyTeam",
@@ -2376,7 +2520,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/influenced",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/JavaScript",
@@ -2471,7 +2617,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/alliance",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Star_Alliance",
@@ -2496,7 +2644,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/author",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 }
             ]
         }
@@ -2509,11 +2659,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -2570,7 +2724,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/residence",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 }
             ]
         }
@@ -2624,7 +2780,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/officialLanguage",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q6256"
+                    ]
                 }
             ]
         }
@@ -2691,7 +2849,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/profession",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Politician",
@@ -2761,15 +2921,21 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Telecommunication",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P31>/(<http://www.wikidata.org/prop/direct/P279>*)"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/industry",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q43229"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/location",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Belgium",
@@ -2781,7 +2947,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/locationCountry",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P17"
+                    ]
                 }
             ]
         }
@@ -2832,7 +3000,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/children",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 }
             ]
         }
@@ -2863,7 +3033,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/location",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Kent",
@@ -2903,7 +3075,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -2942,7 +3116,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/length",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 }
             ]
         }
@@ -2961,7 +3137,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/birthName",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 }
             ]
         }
@@ -3001,7 +3179,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/designer",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Heckler_&_Koch",
@@ -3020,7 +3200,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/2004/02/skos/core#",
@@ -3028,7 +3210,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Category:",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://purl.org/dc/terms/",
@@ -3091,7 +3275,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/producer",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q37876"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Hal_Roach",
@@ -3110,11 +3296,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Agent_Smith",
@@ -3124,7 +3314,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/portrayer",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/qualifier/"
+                    ]
                 }
             ]
         }
@@ -3276,7 +3468,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/ChessPlayer",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/birthPlace",
@@ -3328,15 +3522,21 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Fort_Knox",
@@ -3347,7 +3547,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/location",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/country",
@@ -3430,7 +3632,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/property/title",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/King_of_Rome",
@@ -3485,11 +3689,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/Brewery",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/location",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Australia",
@@ -3501,7 +3709,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/location",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/country",
@@ -3534,7 +3744,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/ground",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q476028"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Spain",
@@ -3545,7 +3757,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/ground",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q29"
+                    ]
                 }
             ]
         }
@@ -3576,7 +3790,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/producer",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q37876"
+                    ]
                 }
             ]
         }
@@ -3589,7 +3805,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/property/breed",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/German_Shepherd",
@@ -3621,7 +3839,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/team",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Chicago_Bulls",
@@ -3631,7 +3851,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/draftTeam",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Chicago_Bulls",
@@ -3660,7 +3882,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/spokenIn",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Estonia",
@@ -3680,7 +3904,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -3713,11 +3939,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:United_States",
@@ -3738,7 +3968,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Ceres_(dwarf_planet)",
@@ -3763,11 +3995,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:Angela_Merkel",
@@ -3790,11 +4026,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/The_Pillars_of_the_Earth",
@@ -3819,11 +4059,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:Johann_Wolfgang_von_Goethe",
@@ -3846,11 +4090,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Carrot_cake",
@@ -3873,11 +4121,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/mountainRange",
@@ -3904,11 +4156,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Mecca",
@@ -3933,11 +4189,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Gus_Fring",
@@ -3947,7 +4207,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/portrayer",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/qualifier/"
+                    ]
                 }
             ]
         }
@@ -3960,11 +4222,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -3980,7 +4246,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/location",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Spain",
@@ -4004,11 +4272,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Batman",
@@ -4033,11 +4305,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/DBpedia",
@@ -4062,11 +4338,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -4105,11 +4385,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Palace_of_Westminster",
@@ -4119,7 +4403,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/location",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 }
             ]
         }
@@ -4132,11 +4418,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:D\u00fcsseldorf_Airport",
@@ -4159,11 +4449,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:Mexico_City",
@@ -4186,11 +4480,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/class/yago/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/statement/value/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -4227,11 +4525,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Douglas_Hofstadter",
@@ -4256,7 +4558,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -4287,11 +4591,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Brooklyn_Bridge",
@@ -4316,11 +4624,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:Friends",
@@ -4341,15 +4653,21 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:8th_President_of_the_United_States",
@@ -4374,11 +4692,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:European_Union",
@@ -4401,11 +4723,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -4442,11 +4768,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/World_of_Warcraft",
@@ -4471,11 +4801,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:Adele",
@@ -4498,11 +4832,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:Cairo",
@@ -4525,11 +4863,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:The_Interpretation_of_Dreams",
@@ -4552,11 +4894,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:William_Shakespeare",
@@ -4579,7 +4925,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/product",
@@ -4602,11 +4950,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Rachel_Stevens",
@@ -4631,11 +4983,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Jane_Fonda",
@@ -4660,11 +5016,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/GIMP",
@@ -4687,11 +5047,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Angela_Merkel",
@@ -4716,11 +5080,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -4759,7 +5127,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -4790,11 +5160,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/John_Adams",
@@ -4819,11 +5193,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -4860,11 +5238,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Abraham_Lincoln",
@@ -4889,11 +5271,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Australia",
@@ -4926,11 +5312,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/currency",
@@ -4955,11 +5345,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:Albert_Einstein",
@@ -4980,7 +5374,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Titanic_(1997_film)",
@@ -5004,11 +5400,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Toy_Story",
@@ -5033,11 +5433,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:Geography_of_Iran",
@@ -5058,11 +5462,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Paris",
@@ -5085,11 +5493,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -5107,7 +5519,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/location",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/India",
@@ -5133,11 +5547,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Margaret_Thatcher",
@@ -5162,11 +5580,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:North_Rhine-Westphalia",
@@ -5189,11 +5611,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/owner",
@@ -5216,11 +5642,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/director",
@@ -5245,11 +5675,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:Iraq",
@@ -5272,11 +5706,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Canada",
@@ -5306,11 +5744,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/director",
@@ -5341,11 +5783,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Claudia_Schiffer",
@@ -5370,11 +5816,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/property/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:Germany",
@@ -5395,11 +5845,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -5444,11 +5898,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/publisher",
@@ -5471,11 +5929,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Suriname",
@@ -5485,7 +5947,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/officialLanguage",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q6256"
+                    ]
                 }
             ]
         }
@@ -5498,11 +5962,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Limerick_Lake",
@@ -5527,11 +5995,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/The_Prodigy",
@@ -5555,11 +6027,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Rome",
@@ -5587,11 +6063,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Australia",
@@ -5616,11 +6096,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Jacques_Chirac",
@@ -5645,11 +6129,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:South_Africa",
@@ -5670,11 +6158,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Yokohama_Marine_Tower",
@@ -5699,7 +6191,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -5726,7 +6220,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -5759,11 +6255,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Paris",
@@ -5792,7 +6292,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -5821,11 +6323,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Frank_Sinatra",
@@ -5850,11 +6356,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/parent",
@@ -5887,11 +6397,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Cameroon",
@@ -5916,11 +6430,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -5959,15 +6477,21 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/type",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:States_of_Mexico",
@@ -5984,11 +6508,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/The_Lego_Movie",
@@ -6013,7 +6541,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -6046,11 +6576,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Syngman_Rhee",
@@ -6073,11 +6607,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/The_Pillars_of_the_Earth",
@@ -6102,11 +6640,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Albert_Einstein",
@@ -6131,11 +6673,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Pulp_Fiction",
@@ -6160,11 +6706,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -6195,7 +6745,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/producer",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q37876"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Benicio_del_Toro",
@@ -6231,11 +6783,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/series",
@@ -6258,11 +6814,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Johann_Sebastian_Bach",
@@ -6287,11 +6847,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -6299,7 +6863,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/type",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:Rapid_transit",
@@ -6311,7 +6877,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/location",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "rdf:type",
@@ -6334,11 +6902,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Brooklyn_Bridge",
@@ -6363,11 +6935,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Eurasia",
@@ -6392,7 +6968,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Melbourne,_Florida",
@@ -6417,11 +6995,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -6461,11 +7043,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/The_Three_Dancers",
@@ -6496,11 +7082,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Operation_Overlord",
@@ -6525,11 +7115,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -6560,11 +7154,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Benjamin_Franklin",
@@ -6589,11 +7187,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Michael_Jordan",
@@ -6618,11 +7220,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Family_Guy",
@@ -6647,11 +7253,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/T",
@@ -6676,11 +7286,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/San_Pedro_de_Atacama",
@@ -6703,11 +7317,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Hotel_California",
@@ -6730,11 +7348,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Canada",
@@ -6760,11 +7382,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Czech_Republic",
@@ -6789,11 +7415,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Boris_Becker",
@@ -6816,11 +7446,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -6871,11 +7505,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/author",
@@ -6910,7 +7548,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/governmentType",
@@ -6918,7 +7558,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Borough_(New_York_City)",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q408804"
+                    ]
                 }
             ]
         }
@@ -6931,11 +7573,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -6965,11 +7611,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Game_of_Thrones",
@@ -6994,11 +7644,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -7045,11 +7699,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/China",
@@ -7081,11 +7739,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -7122,11 +7784,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -7144,7 +7810,9 @@
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/location",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/New_York_City",
@@ -7167,7 +7835,9 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -7212,11 +7882,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -7261,11 +7935,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Last_Action_Hero",
@@ -7290,11 +7968,15 @@
             "entities_relations": [
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q339"
+                    ]
                 },
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/",
-                    "wikidata_ids": []
+                    "wikidata_ids": [
+                        "http://www.wikidata.org/prop/direct/P61"
+                    ]
                 },
                 {
                     "dbpedia_id": "dbr:Pluto",
