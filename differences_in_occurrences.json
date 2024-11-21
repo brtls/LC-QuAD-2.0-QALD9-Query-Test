@@ -1,0 +1,266 @@
+{
+    "http://dbpedia.org/ontology/starring": {
+        "occurrences_in_file1": 17,
+        "occurrences_in_file2": 11
+    },
+    "http://dbpedia.org/ontology/country": {
+        "occurrences_in_file1": 17,
+        "occurrences_in_file2": 12
+    },
+    "http://dbpedia.org/ontology/Film": {
+        "occurrences_in_file1": 15,
+        "occurrences_in_file2": 9
+    },
+    "http://dbpedia.org/ontology/location": {
+        "occurrences_in_file1": 14,
+        "occurrences_in_file2": 6
+    },
+    "http://dbpedia.org/ontology/birthPlace": {
+        "occurrences_in_file1": 10,
+        "occurrences_in_file2": 3
+    },
+    "http://dbpedia.org/ontology/author": {
+        "occurrences_in_file1": 8,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/ontology/director": {
+        "occurrences_in_file1": 7,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/ontology/elevation": {
+        "occurrences_in_file1": 7,
+        "occurrences_in_file2": 4
+    },
+    "http://dbpedia.org/ontology/creator": {
+        "occurrences_in_file1": 6,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/resource/Australia": {
+        "occurrences_in_file1": 6,
+        "occurrences_in_file2": 3
+    },
+    "http://dbpedia.org/ontology/Country": {
+        "occurrences_in_file1": 6,
+        "occurrences_in_file2": 3
+    },
+    "http://dbpedia.org/ontology/deathPlace": {
+        "occurrences_in_file1": 5,
+        "occurrences_in_file2": 4
+    },
+    "http://dbpedia.org/ontology/height": {
+        "occurrences_in_file1": 5,
+        "occurrences_in_file2": 4
+    },
+    "http://dbpedia.org/ontology/producer": {
+        "occurrences_in_file1": 5,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/ontology/Company": {
+        "occurrences_in_file1": 5,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/ontology/currency": {
+        "occurrences_in_file1": 5,
+        "occurrences_in_file2": 3
+    },
+    "http://dbpedia.org/ontology/Mountain": {
+        "occurrences_in_file1": 5,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/ontology/developer": {
+        "occurrences_in_file1": 4,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/ontology/Person": {
+        "occurrences_in_file1": 4,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/ontology/occupation": {
+        "occurrences_in_file1": 4,
+        "occurrences_in_file2": 3
+    },
+    "http://dbpedia.org/ontology/birthDate": {
+        "occurrences_in_file1": 4,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/ontology/capital": {
+        "occurrences_in_file1": 4,
+        "occurrences_in_file2": 3
+    },
+    "http://dbpedia.org/ontology/almaMater": {
+        "occurrences_in_file1": 4,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/ontology/spouse": {
+        "occurrences_in_file1": 4,
+        "occurrences_in_file2": 3
+    },
+    "http://dbpedia.org/ontology/officialLanguage": {
+        "occurrences_in_file1": 3,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/resource/Denmark": {
+        "occurrences_in_file1": 3,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/ontology/Museum": {
+        "occurrences_in_file1": 3,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/ontology/BasketballPlayer": {
+        "occurrences_in_file1": 3,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/ontology/numberOfEmployees": {
+        "occurrences_in_file1": 3,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/resource/Paris": {
+        "occurrences_in_file1": 3,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/ontology/TelevisionShow": {
+        "occurrences_in_file1": 3,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/ontology/Holiday": {
+        "occurrences_in_file1": 3,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/ontology/portrayer": {
+        "occurrences_in_file1": 3,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/resource/Angela_Merkel": {
+        "occurrences_in_file1": 3,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/resource/Spain": {
+        "occurrences_in_file1": 3,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/resource/William_Shatner": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 3
+    },
+    "http://dbpedia.org/ontology/Organisation": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/ontology/mission": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/resource/Apollo_14": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/resource/Baikonur_Cosmodrome": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/resource/Bandleader": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/ontology/instrument": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/resource/Trumpet": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/class/yago/WikicatStatesOfTheUnitedStates": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/ontology/award": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/ontology/Bridge": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/ontology/crosses": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/resource/Julia_Roberts": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/ontology/architect": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/ontology/owner": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/resource/Germany": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/ontology/industry": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 3
+    },
+    "http://dbpedia.org/ontology/length": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/resource/United_States": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/ontology/deathDate": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/resource/Albert_Einstein": {
+        "occurrences_in_file1": 2,
+        "occurrences_in_file2": 1
+    },
+    "http://dbpedia.org/ontology/nationality": {
+        "occurrences_in_file1": 1,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/resource/Switzerland": {
+        "occurrences_in_file1": 1,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/resource/Munich": {
+        "occurrences_in_file1": 1,
+        "occurrences_in_file2": 3
+    },
+    "http://dbpedia.org/resource/Istanbul": {
+        "occurrences_in_file1": 1,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/ontology/hometown": {
+        "occurrences_in_file1": 1,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/resource/Perl": {
+        "occurrences_in_file1": 1,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/resource/SkyTeam": {
+        "occurrences_in_file1": 1,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/resource/Clint_Eastwood": {
+        "occurrences_in_file1": 1,
+        "occurrences_in_file2": 2
+    },
+    "http://dbpedia.org/resource/Chicago_Bulls": {
+        "occurrences_in_file1": 1,
+        "occurrences_in_file2": 3
+    },
+    "http://dbpedia.org/ontology/parent": {
+        "occurrences_in_file1": 1,
+        "occurrences_in_file2": 2
+    }
+}
