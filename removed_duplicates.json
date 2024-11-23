@@ -48,16 +48,16 @@
         "question_id": "54",
         "dbpedia_id": "http://dbpedia.org/resource/Munich",
         "wikidata_ids": [
-            "http://www.wikidata.org/entity/Q1726",
-            "http://www.wikidata.org/entity/Q439948"
+            "http://www.wikidata.org/entity/Q439948",
+            "http://www.wikidata.org/entity/Q1726"
         ]
     },
     {
         "question_id": "54",
         "dbpedia_id": "http://dbpedia.org/resource/Munich",
         "wikidata_ids": [
-            "http://www.wikidata.org/entity/Q1726",
-            "http://www.wikidata.org/entity/Q439948"
+            "http://www.wikidata.org/entity/Q439948",
+            "http://www.wikidata.org/entity/Q1726"
         ]
     },
     {
@@ -87,9 +87,9 @@
         "question_id": "82",
         "dbpedia_id": "http://dbpedia.org/resource/Germany",
         "wikidata_ids": [
-            "http://www.wikidata.org/entity/Q43287",
             "http://www.wikidata.org/entity/Q183",
-            "http://www.wikidata.org/entity/Q41304"
+            "http://www.wikidata.org/entity/Q41304",
+            "http://www.wikidata.org/entity/Q43287"
         ]
     },
     {
@@ -103,11 +103,11 @@
         "question_id": "100",
         "dbpedia_id": "http://dbpedia.org/resource/Istanbul",
         "wikidata_ids": [
-            "http://www.wikidata.org/entity/Q534799",
-            "http://www.wikidata.org/entity/Q23725",
-            "http://www.wikidata.org/entity/Q406",
+            "http://www.wikidata.org/entity/Q16869",
             "http://www.wikidata.org/entity/Q19838826",
-            "http://www.wikidata.org/entity/Q16869"
+            "http://www.wikidata.org/entity/Q406",
+            "http://www.wikidata.org/entity/Q534799",
+            "http://www.wikidata.org/entity/Q23725"
         ]
     },
     {

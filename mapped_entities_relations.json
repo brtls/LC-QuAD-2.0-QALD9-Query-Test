@@ -48,8 +48,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/Person",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q215627",
-                        "http://www.wikidata.org/entity/Q5"
+                        "http://www.wikidata.org/entity/Q5",
+                        "http://www.wikidata.org/entity/Q215627"
                     ]
                 },
                 {
@@ -178,8 +178,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Denmark",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q35",
-                        "http://www.wikidata.org/entity/Q5257925"
+                        "http://www.wikidata.org/entity/Q5257925",
+                        "http://www.wikidata.org/entity/Q35"
                     ]
                 }
             ]
@@ -363,8 +363,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Bandleader",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q5280538",
-                        "http://www.wikidata.org/entity/Q806349"
+                        "http://www.wikidata.org/entity/Q806349",
+                        "http://www.wikidata.org/entity/Q5280538"
                     ]
                 },
                 {
@@ -376,8 +376,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Trumpet",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q8338",
-                        "http://www.wikidata.org/entity/Q119621"
+                        "http://www.wikidata.org/entity/Q119621",
+                        "http://www.wikidata.org/entity/Q8338"
                     ]
                 }
             ]
@@ -425,12 +425,12 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/London",
                     "wikidata_ids": [
+                        "http://www.wikidata.org/entity/Q23306",
                         "http://www.wikidata.org/entity/Q103190841",
                         "http://www.wikidata.org/entity/Q84",
                         "http://www.wikidata.org/entity/Q60308",
                         "http://www.wikidata.org/entity/Q927198",
-                        "http://www.wikidata.org/entity/Q103177460",
-                        "http://www.wikidata.org/entity/Q23306"
+                        "http://www.wikidata.org/entity/Q103177460"
                     ]
                 }
             ]
@@ -639,8 +639,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Russia",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q159",
-                        "http://www.wikidata.org/entity/Q2184"
+                        "http://www.wikidata.org/entity/Q2184",
+                        "http://www.wikidata.org/entity/Q159"
                     ]
                 },
                 {
@@ -818,8 +818,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Denmark",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q35",
-                        "http://www.wikidata.org/entity/Q5257925"
+                        "http://www.wikidata.org/entity/Q5257925",
+                        "http://www.wikidata.org/entity/Q35"
                     ]
                 }
             ]
@@ -884,8 +884,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Munich",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q1726",
-                        "http://www.wikidata.org/entity/Q439948"
+                        "http://www.wikidata.org/entity/Q439948",
+                        "http://www.wikidata.org/entity/Q1726"
                     ]
                 },
                 {
@@ -910,9 +910,9 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Himalayas",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q26235529",
                         "http://www.wikidata.org/entity/Q5451",
-                        "http://www.wikidata.org/entity/Q105981852"
+                        "http://www.wikidata.org/entity/Q105981852",
+                        "http://www.wikidata.org/entity/Q26235529"
                     ]
                 },
                 {
@@ -1313,8 +1313,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/Person",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q215627",
-                        "http://www.wikidata.org/entity/Q5"
+                        "http://www.wikidata.org/entity/Q5",
+                        "http://www.wikidata.org/entity/Q215627"
                     ]
                 },
                 {
@@ -1344,9 +1344,9 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Himalayas",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q26235529",
                         "http://www.wikidata.org/entity/Q5451",
-                        "http://www.wikidata.org/entity/Q105981852"
+                        "http://www.wikidata.org/entity/Q105981852",
+                        "http://www.wikidata.org/entity/Q26235529"
                     ]
                 },
                 {
@@ -1379,9 +1379,9 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Germany",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q43287",
                         "http://www.wikidata.org/entity/Q183",
-                        "http://www.wikidata.org/entity/Q41304"
+                        "http://www.wikidata.org/entity/Q41304",
+                        "http://www.wikidata.org/entity/Q43287"
                     ]
                 },
                 {
@@ -1433,10 +1433,10 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Berlin",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q56037",
                         "http://www.wikidata.org/entity/Q56036",
+                        "http://www.wikidata.org/entity/Q64",
                         "http://www.wikidata.org/entity/Q31910788",
-                        "http://www.wikidata.org/entity/Q64"
+                        "http://www.wikidata.org/entity/Q56037"
                     ]
                 }
             ]
@@ -1617,9 +1617,9 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Advertising",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q37038",
+                        "http://www.wikidata.org/entity/Q1286627",
                         "http://www.wikidata.org/entity/Q854995",
-                        "http://www.wikidata.org/entity/Q1286627"
+                        "http://www.wikidata.org/entity/Q37038"
                     ]
                 }
             ]
@@ -1658,11 +1658,11 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Istanbul",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q534799",
-                        "http://www.wikidata.org/entity/Q23725",
-                        "http://www.wikidata.org/entity/Q406",
+                        "http://www.wikidata.org/entity/Q16869",
                         "http://www.wikidata.org/entity/Q19838826",
-                        "http://www.wikidata.org/entity/Q16869"
+                        "http://www.wikidata.org/entity/Q406",
+                        "http://www.wikidata.org/entity/Q534799",
+                        "http://www.wikidata.org/entity/Q23725"
                     ]
                 },
                 {
@@ -1981,8 +1981,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Poet",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q1293108",
-                        "http://www.wikidata.org/entity/Q49757"
+                        "http://www.wikidata.org/entity/Q49757",
+                        "http://www.wikidata.org/entity/Q1293108"
                     ]
                 },
                 {
@@ -2378,9 +2378,9 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Belgium",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q1841002",
+                        "http://www.wikidata.org/entity/Q31",
                         "http://www.wikidata.org/entity/Q2025327",
-                        "http://www.wikidata.org/entity/Q31"
+                        "http://www.wikidata.org/entity/Q1841002"
                     ]
                 },
                 {
@@ -2411,8 +2411,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Denmark",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q35",
-                        "http://www.wikidata.org/entity/Q5257925"
+                        "http://www.wikidata.org/entity/Q5257925",
+                        "http://www.wikidata.org/entity/Q35"
                     ]
                 },
                 {
@@ -2648,8 +2648,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/IBM",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q70096636",
-                        "http://www.wikidata.org/entity/Q37156"
+                        "http://www.wikidata.org/entity/Q37156",
+                        "http://www.wikidata.org/entity/Q70096636"
                     ]
                 },
                 {
@@ -2739,8 +2739,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Pro-Europeanism",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q3781399",
-                        "http://www.wikidata.org/entity/Q1377153"
+                        "http://www.wikidata.org/entity/Q1377153",
+                        "http://www.wikidata.org/entity/Q3781399"
                     ]
                 }
             ]
@@ -2761,8 +2761,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Bandleader",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q5280538",
-                        "http://www.wikidata.org/entity/Q806349"
+                        "http://www.wikidata.org/entity/Q806349",
+                        "http://www.wikidata.org/entity/Q5280538"
                     ]
                 },
                 {
@@ -2774,8 +2774,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Trumpet",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q8338",
-                        "http://www.wikidata.org/entity/Q119621"
+                        "http://www.wikidata.org/entity/Q119621",
+                        "http://www.wikidata.org/entity/Q8338"
                     ]
                 }
             ]
@@ -3026,10 +3026,10 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Berlin",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q56037",
                         "http://www.wikidata.org/entity/Q56036",
+                        "http://www.wikidata.org/entity/Q64",
                         "http://www.wikidata.org/entity/Q31910788",
-                        "http://www.wikidata.org/entity/Q64"
+                        "http://www.wikidata.org/entity/Q56037"
                     ]
                 }
             ]
@@ -3155,8 +3155,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/Person",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q215627",
-                        "http://www.wikidata.org/entity/Q5"
+                        "http://www.wikidata.org/entity/Q5",
+                        "http://www.wikidata.org/entity/Q215627"
                     ]
                 },
                 {
@@ -3199,8 +3199,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Estonia",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q191",
-                        "http://www.wikidata.org/entity/Q16412891"
+                        "http://www.wikidata.org/entity/Q16412891",
+                        "http://www.wikidata.org/entity/Q191"
                     ]
                 }
             ]
@@ -3362,8 +3362,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Ore_Mountains",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q4198",
-                        "http://www.wikidata.org/entity/Q177137"
+                        "http://www.wikidata.org/entity/Q177137",
+                        "http://www.wikidata.org/entity/Q4198"
                     ]
                 },
                 {
@@ -3792,8 +3792,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Cairo",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q20230483",
-                        "http://www.wikidata.org/entity/Q85"
+                        "http://www.wikidata.org/entity/Q85",
+                        "http://www.wikidata.org/entity/Q20230483"
                     ]
                 },
                 {
@@ -4228,8 +4228,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/India",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q20523028",
-                        "http://www.wikidata.org/entity/Q668"
+                        "http://www.wikidata.org/entity/Q668",
+                        "http://www.wikidata.org/entity/Q20523028"
                     ]
                 },
                 {
@@ -4430,9 +4430,9 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Germany",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q43287",
                         "http://www.wikidata.org/entity/Q183",
-                        "http://www.wikidata.org/entity/Q41304"
+                        "http://www.wikidata.org/entity/Q41304",
+                        "http://www.wikidata.org/entity/Q43287"
                     ]
                 },
                 {
@@ -4543,8 +4543,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/The_Prodigy",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q7256860",
-                        "http://www.wikidata.org/entity/Q3922491"
+                        "http://www.wikidata.org/entity/Q3922491",
+                        "http://www.wikidata.org/entity/Q7256860"
                     ]
                 },
                 {
@@ -4563,12 +4563,12 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Rome",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q18287233",
-                        "http://www.wikidata.org/entity/Q953741",
-                        "http://www.wikidata.org/entity/Q1925709",
-                        "http://www.wikidata.org/entity/Q220",
                         "http://www.wikidata.org/entity/Q652748",
-                        "http://www.wikidata.org/entity/Q3940419"
+                        "http://www.wikidata.org/entity/Q1925709",
+                        "http://www.wikidata.org/entity/Q18287233",
+                        "http://www.wikidata.org/entity/Q3940419",
+                        "http://www.wikidata.org/entity/Q953741",
+                        "http://www.wikidata.org/entity/Q220"
                     ]
                 },
                 {
@@ -5013,8 +5013,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/ontology/Person",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q215627",
-                        "http://www.wikidata.org/entity/Q5"
+                        "http://www.wikidata.org/entity/Q5",
+                        "http://www.wikidata.org/entity/Q215627"
                     ]
                 }
             ]
@@ -5161,8 +5161,8 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/Mount_Everest",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q19977041",
-                        "http://www.wikidata.org/entity/Q513"
+                        "http://www.wikidata.org/entity/Q513",
+                        "http://www.wikidata.org/entity/Q19977041"
                     ]
                 },
                 {
@@ -5599,14 +5599,14 @@
                 {
                     "dbpedia_id": "http://dbpedia.org/resource/China",
                     "wikidata_ids": [
-                        "http://www.wikidata.org/entity/Q29520",
                         "http://www.wikidata.org/entity/Q13426199",
-                        "http://www.wikidata.org/entity/Q22502",
-                        "http://www.wikidata.org/entity/Q127864",
                         "http://www.wikidata.org/entity/Q865",
-                        "http://www.wikidata.org/entity/Q12205470",
+                        "http://www.wikidata.org/entity/Q148",
                         "http://www.wikidata.org/entity/Q942154",
-                        "http://www.wikidata.org/entity/Q148"
+                        "http://www.wikidata.org/entity/Q12205470",
+                        "http://www.wikidata.org/entity/Q29520",
+                        "http://www.wikidata.org/entity/Q127864",
+                        "http://www.wikidata.org/entity/Q22502"
                     ]
                 },
                 {
