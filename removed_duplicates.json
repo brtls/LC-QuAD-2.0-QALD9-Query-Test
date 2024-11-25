@@ -72,8 +72,8 @@
         "dbpedia_id": "http://dbpedia.org/resource/Australia",
         "wikidata_ids": [
             "http://www.wikidata.org/entity/Q25907685",
-            "http://www.wikidata.org/entity/Q3960",
-            "http://www.wikidata.org/entity/Q408"
+            "http://www.wikidata.org/entity/Q408",
+            "http://www.wikidata.org/entity/Q3960"
         ]
     },
     {
@@ -87,9 +87,9 @@
         "question_id": "82",
         "dbpedia_id": "http://dbpedia.org/resource/Germany",
         "wikidata_ids": [
-            "http://www.wikidata.org/entity/Q183",
             "http://www.wikidata.org/entity/Q41304",
-            "http://www.wikidata.org/entity/Q43287"
+            "http://www.wikidata.org/entity/Q43287",
+            "http://www.wikidata.org/entity/Q183"
         ]
     },
     {
@@ -103,10 +103,10 @@
         "question_id": "100",
         "dbpedia_id": "http://dbpedia.org/resource/Istanbul",
         "wikidata_ids": [
-            "http://www.wikidata.org/entity/Q16869",
-            "http://www.wikidata.org/entity/Q19838826",
             "http://www.wikidata.org/entity/Q406",
+            "http://www.wikidata.org/entity/Q16869",
             "http://www.wikidata.org/entity/Q534799",
+            "http://www.wikidata.org/entity/Q19838826",
             "http://www.wikidata.org/entity/Q23725"
         ]
     },
@@ -120,8 +120,8 @@
         "dbpedia_id": "http://dbpedia.org/resource/Australia",
         "wikidata_ids": [
             "http://www.wikidata.org/entity/Q25907685",
-            "http://www.wikidata.org/entity/Q3960",
-            "http://www.wikidata.org/entity/Q408"
+            "http://www.wikidata.org/entity/Q408",
+            "http://www.wikidata.org/entity/Q3960"
         ]
     },
     {
@@ -184,8 +184,8 @@
         "dbpedia_id": "http://dbpedia.org/resource/Australia",
         "wikidata_ids": [
             "http://www.wikidata.org/entity/Q25907685",
-            "http://www.wikidata.org/entity/Q3960",
-            "http://www.wikidata.org/entity/Q408"
+            "http://www.wikidata.org/entity/Q408",
+            "http://www.wikidata.org/entity/Q3960"
         ]
     },
     {
